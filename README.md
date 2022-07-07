@@ -6,4 +6,4 @@ I made this project to brush up on my css skills and this project brings so much
 
 You can find the live preview here :
 
-[Pokedex] (https://0takugod.github.io/Pokedex-kanto/)
+[Pokédex](https://0takugod.github.io/Pokedex-kanto/)
