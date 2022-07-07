@@ -28,6 +28,9 @@ async function getPokemon(num) {
     // console.log(pokemon);
 
     let pokemonName = pokemon["name"];
+    if(pokemonName==='gligar'){
+        pokemonName="GLIGAR ⭐" //Bhavay's fav pokemon
+    }
     let pokemonType = pokemon["types"];
     let pokemonImg = pokemon["sprites"]["front_default"];
 
